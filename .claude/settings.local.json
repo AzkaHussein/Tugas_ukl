@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"d:/Tugas UKL/water_cash_2/lib/screens/admin/bills\")",
+      "Bash(mkdir -p \"d:/Tugas UKL/water_cash_2/lib/screens/customer/payments\")",
+      "Bash(flutter analyze lib/screens/admin/bills/bill_list_screen.dart)",
+      "Bash(flutter analyze lib/screens/customer/payments/payment_upload_screen.dart)",
+      "Bash(flutter analyze lib/screens/admin/activity/admin_activity_screen.dart)",
+      "Bash(flutter analyze lib/screens/customer/payments/)",
+      "Bash(flutter analyze lib/screens/admin/activity/admin_activity_screen.dart lib/screens/customer/payments/payment_upload_screen.dart lib/screens/customer/payments/payment_form_screen.dart)"
+    ]
+  }
+}
